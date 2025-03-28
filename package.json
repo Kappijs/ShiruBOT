@@ -1,0 +1,24 @@
+{
+  "name": "shirubot",
+  "version": "1.0.0",
+  "description": "This project is licensed under the MIT License.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappijs/ShiruBOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kappijs/ShiruBOT/issues"
+  },
+  "homepage": "https://github.com/Kappijs/ShiruBOT#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
