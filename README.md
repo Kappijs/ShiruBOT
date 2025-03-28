@@ -33,4 +33,4 @@ ShiruBOT is a Discord bot designed to update its status in real-time and ensure 
    Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/Kappijs/ShiruBOT.git
-   cd ShiruLab
+   cd ShiruBOT
